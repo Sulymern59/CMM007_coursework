@@ -1,0 +1,2 @@
+// TC-10752
+document.observe("session:type", function() {  tc.offset = false });
